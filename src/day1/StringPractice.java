@@ -6,7 +6,9 @@ public class StringPractice {
         System.out.println("Hello CANADA");
         System.out.println("Hello CANADA");
         String name="Kurshat";
-        System.out.println("this is my name  = " + name );
+        System.out.println("this is my name  = " + name );z
+//      deneme calismasi
+
 
     }
 
