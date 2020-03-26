@@ -3,3 +3,4 @@ mango
 elma
 armut
 karpuz
+pear apple
