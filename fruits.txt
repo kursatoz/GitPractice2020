@@ -4,3 +4,5 @@ elma
 armut
 karpuz kavun
 kiwi
+karpuz
+pear apple
