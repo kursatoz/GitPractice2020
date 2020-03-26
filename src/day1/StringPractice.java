@@ -4,6 +4,11 @@ public class StringPractice {
 
     public static void main(String[] args) {
         System.out.println("Hello CANADA");
+        System.out.println("Hello CANADA");
+        String name="Kurshat";
+        System.out.println("this is my name  = " + name );z
+//      deneme calismasi
+
 
     }
 
