@@ -6,3 +6,5 @@ BMW 8X 2020
 BMW 3 2019gi
 kia Optima
 Mercedes
+Range Rover Velar
+Subaru WRX STI
